@@ -1,0 +1,124 @@
+*{
+    background-color:#E2ECFA;
+    margin: 0;
+}
+
+p{
+    font-size: 12px;
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 55px;
+}
+.k{
+    padding-left: 50px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.a{
+    padding-left: 70px;
+    font-size: 15px;
+}
+.b{
+    padding-left: 30px;
+}
+.c{
+    padding-left: 30px;
+}
+.d{
+    padding-left: 30px;
+}
+.e{
+    padding-left: 30px;
+}
+.z{
+    margin-left: 700px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: blue;
+    border-color: blue;
+}
+p{
+    text-align: center;
+    padding-top: 150px;
+    font-size: 12px;
+    letter-spacing: 1.5px;
+    padding-bottom: 15px;
+}
+.s{
+    text-align: center;
+    padding: 2px;
+}
+.y{
+    text-align: center;
+    margin: 0vw;
+    font-size: 58px;
+    margin-block-start: 0rem;
+    margin-block-end: 0rem;
+}
+.kite{
+    font-size: 18px;
+    padding-top: 25px;
+    padding-bottom: 0;
+}
+.bat{
+    font-size: 18px;
+    padding: 5px;
+}
+.water{
+    margin-left:35rem;
+    margin-top: 20px;
+    padding-right: 135px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 5px;
+    /* something o be addded here */
+}
+.watch{
+    padding-left: 65px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 65px;
+    background-color: orangered;
+    color: white;
+    border-radius: 5px;
+}
+#zebra{
+    padding-top: 14px;
+    font-size: 15px;
+}
+.mango{
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 800;
+    padding-top: 120px;
+}
+#cab{
+    padding-left: 405px;
+    padding-right: 70px;
+}
+#car{
+    padding-left: 400px;
+}
+#cap{
+    padding-left: 150px;
+}
+.lion{
+    font-size: 15px;
+    text-align: left;
+    padding-top: 7px;
+}
+.rabbit{font-size: 15px;
+    text-align: center;
+    padding-top: 0px;
+
+}
+.dog{
+    font-size: 15px;
+    text-align: right;
+    padding-top: 4px;
+}
